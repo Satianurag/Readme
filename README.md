@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satianurag&label=Profile%20views&color=0e75b6&style=flat" alt="satianurag" /> </p>
 
-- 🌱 I’m currently learning **linux**
-
 - 📫 How to reach me **anuragsati6476@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
